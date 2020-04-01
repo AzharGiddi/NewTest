@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13894" started-at="2020-04-01T16:26:40Z" finished-at="2020-04-01T16:26:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13894" started-at="2020-04-01T16:26:40Z" finished-at="2020-04-01T16:26:54Z">
+      <class name="com.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="Log()[pri:0, instance:com.qa.TestCases.HomePageTest@534df152]" name="Log" duration-ms="13858" started-at="2020-04-01T21:56:40Z" finished-at="2020-04-01T21:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log -->
+      </class> <!-- com.qa.TestCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
